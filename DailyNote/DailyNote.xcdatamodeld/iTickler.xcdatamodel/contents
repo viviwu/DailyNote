@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="XWEvent" representedClassName="XWEvent" codeGenerationType="class">
+        <attribute name="brief" optional="YES" attributeType="String"/>
+        <attribute name="image" optional="YES" attributeType="Binary"/>
+        <attribute name="link" optional="YES" attributeType="String"/>
+        <attribute name="tag" optional="YES" attributeType="String"/>
+        <attribute name="timestamp" optional="YES" attributeType="Date"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="update" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <userInfo/>
+    </entity>
+    <elements>
+        <element name="XWEvent" positionX="261" positionY="189" width="128" height="148"/>
+    </elements>
+</model>
